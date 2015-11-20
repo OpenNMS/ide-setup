@@ -12,7 +12,7 @@
       <emptyLine />
       <package name="javax" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="junit" withSubpackages="true" static="false" />
+      <package name="org" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="com" withSubpackages="true" static="false" />
       <emptyLine />
