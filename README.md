@@ -2,4 +2,4 @@
 Repository to help setup an IDE to work with OpenNMS
 
 Informations how to import OpenNMS into Intellij IDE
-you find here: http://www.opennms.org/wiki/IDEA_and_OpenNMS		
+you find here: https://opennms.discourse.group/t/setting-up-intellij-idea-for-opennms-development/2442
